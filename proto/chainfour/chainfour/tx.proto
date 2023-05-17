@@ -1,0 +1,7 @@
+syntax = "proto3";
+package chainfour.chainfour;
+
+option go_package = "chainfour/x/chainfour/types";
+
+// Msg defines the Msg service.
+service Msg {}
